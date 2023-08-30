@@ -1,4 +1,4 @@
-ID,description,endDate,function,name,sourceRecordLink,startDate,type,warning
+﻿ID,description,endDate,function,name,sourceRecordLink,startDate,type,warning
 CRSH0002,"Censorship is the suppression of speech, public communication, or other information. This may be done on the basis that such material is considered objectionable, harmful, sensitive, or ""inconvenient"". Censorship can be conducted by governments, private institutions and other controlling bodies. Governments and private organizations may engage in censorship. Other groups or institutions may propose and petition for censorship. When an individual such as an author or other creator engages in censorship of his or her own works or speech, it is referred to as self-censorship. General censorship occurs in a variety of different media, including speech, books, music, films, and other arts, the press, radio, television, and the Internet for a variety of claimed reasons including national security, to control obscenity, pornography, and hate speech, to protect children or other vulnerable groups, to promote or restrict political or religious views, and to prevent slander and libel.",,,Censorship,https://en.wikipedia.org/wiki/Censorship,,,
 Q3327670,,,,Multiculturalism in Canada,https://www.wikidata.org/wiki/Q3327670,,,
 Q1654265,,,,Human rights in Canada,https://www.wikidata.org/wiki/Q1654265,,,
@@ -70,3 +70,9 @@ Q899061,,,,Constitution of Canada,https://www.wikidata.org/wiki/Q899061,,,
 Q181756,,,,Law of Canada,https://www.wikidata.org/wiki/Q181756,,,
 Q111955892,Legal customs and practices of the Indigenous peoples in Canada,,,Canadian Indigenous law,https://www.wikidata.org/wiki/Q111955892,,,
 Q5029638,Canadian law regarding indigenous people,,,Canadian Aboriginal law,https://www.wikidata.org/wiki/Q5029638,,,
+Q3298567,Early French settlers of present-day Quebec  Canada,,,Habitants,https://www.wikidata.org/wiki/Q3298567,,,
+Q747471,"French women emigrants to North America 1663 to 1673, recruited by Louis XIV",,,Filles du Roi or King's Daughters,https://www.wikidata.org/wiki/Q747471,,,
+Q170604,Area colonized by France in North America,,,New France,https://www.wikidata.org/wiki/Q170604,,,
+Q511878,French-Canadian independent fur traders,,,Coureur des bois,https://www.wikidata.org/wiki/Q511878,,,
+Q502534,Activities related to the acquisition trade and sale of animal furs in North America,,,North American fur trade,https://www.wikidata.org/wiki/Q502534,,,
+Q5030721,Canoe routes of early explorers of Canada,,,Canadian canoe routes,https://www.wikidata.org/wiki/Q5030721,,,
